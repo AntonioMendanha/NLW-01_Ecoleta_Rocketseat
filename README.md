@@ -26,8 +26,9 @@ O projeto aqui apresentado está na versão STARTER que apresenta a aplicação 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- [Node.js](https://nodejs.org/en/docs/)
-- [Express](http://expressjs.com/)
+- HTML 5
+- CSS3
+- JavaScript
 
 Banco de Dados
 - [SQLite3](https://www.npmjs.com/package/sqlite3)
