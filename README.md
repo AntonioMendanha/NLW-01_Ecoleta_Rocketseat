@@ -1,6 +1,21 @@
 <div align="center">
 
 # ECOLETA
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniomendanha/">
+  <img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&message=Antonio%20Mendanha&color=blue&style=for-the-badge">
+	</a>
+  
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/AntonioMendanha/NWL-01_Ecoleta_Rocketseat?style=for-the-badge">
+  
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/AntonioMendanha/NWL-01_Ecoleta_Rocketseat?style=for-the-badge">
+  
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/AntonioMendanha/NWL-01_Ecoleta_Rocketseat?style=for-the-badge">
+  
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/AntonioMendanha/NWL-01_Ecoleta_Rocketseat?style=for-the-badge">
+</p>
+
 </div>
 Marketplace de coleta de resíduos - Aplicação realizada na Next Level Week #01 - Rocketseat
 
@@ -16,3 +31,7 @@ O projeto aqui apresentado está na versão STARTER que apresenta a aplicação 
 
 Banco de Dados
 - [SQLite3](https://www.npmjs.com/package/sqlite3)
+
+<h4 align="center">
+    Antonio Mendanha 👋 <a href="https://www.linkedin.com/in/antoniomendanha/" target="_blank"></a>
+</h4>
